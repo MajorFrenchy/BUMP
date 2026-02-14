@@ -130,17 +130,19 @@ Contributions are welcome! If you'd like to improve BUMP:
 - Incremental backup support
 - Backup restoration wizard
 
-## 📞 Support
+##  Support me
 
-If you find BUMP useful and would like to support its development:
+If you find BUMP useful and would like to support its development: You can con tribute in 2 ways, Getting the VPC Chat Discord server a Boost :" https://discord.com/invite/virtual-pinball-chat-652274650524418078 
 
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/majorfrenchy)
+or by contributing to the VPC Chat Patreon: https://www.patreon.com/c/vpchat
+
+
 
 ## 👨‍💻 Author
 
 **Major Frenchy**
 
-- PayPal: [paypalme/majorfrenchy](https://www.paypal.com/paypalme/majorfrenchy)
+
 
 ## 📄 License
 
