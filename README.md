@@ -114,11 +114,11 @@ For advanced users or custom setups:
 </p>
 <br>
 <p align="center">
-  <img src="https://github.com/MajorFrenchy/BUMP/raw/main/screenshots/Screenshot%2002.jpg" width="50%" alt="VPXmerge Interface">
+  <img src="Screenshots/screenshot02.jpg" width="50%" alt="Bump 01">
 </p>
 <br>
 <p align="center">
-  <img src="https://github.com/MajorFrenchy/BUMP/raw/main/screenshots/Screenshot%2003.jpg" width="50%" alt="VPXmerge Interface">
+  <img src="Screenshots/screenshot03.jpg" width="50%" alt="Bump 01">
 </p>
 
 ## 🤝 Contributing
