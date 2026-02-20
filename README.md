@@ -110,7 +110,7 @@ For advanced users or custom setups:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot01.jpg" width="50%" alt="Bump 01">
+  <img src="[screenshots/screenshot01.jpg](https://github.com/MajorFrenchy/BUMP/blob/main/Screenshots/screenshot01.jpg)" width="50%" alt="Bump 01">
 </p>
 <br>
 <p align="center">
