@@ -110,7 +110,7 @@ For advanced users or custom setups:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/MajorFrenchy/BUMP/raw/main/screenshots/screenshot01.jpg" width="50%" alt="VPXmerge Interface">
+  <img src="screenshots/screenshot01.jpg" width="50%" alt="Bump 01">
 </p>
 <br>
 <p align="center">
