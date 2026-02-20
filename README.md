@@ -109,7 +109,17 @@ For advanced users or custom setups:
 
 ## 📸 Screenshots
 
-<!-- Add screenshots here when available -->
+<p align="center">
+  <img src="https://github.com/MajorFrenchy/BUMP/raw/main/screenshots/Screenshot%2001.jpg" width="50%" alt="VPXmerge Interface">
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/MajorFrenchy/BUMP/raw/main/screenshots/Screenshot%2002.jpg" width="50%" alt="VPXmerge Interface">
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/MajorFrenchy/BUMP/raw/main/screenshots/Screenshot%2003.jpg" width="50%" alt="VPXmerge Interface">
+</p>
 
 ## 🤝 Contributing
 
